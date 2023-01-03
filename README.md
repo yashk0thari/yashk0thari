@@ -17,7 +17,7 @@
 <a href="https://instagram.com/yashkothari1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashkothari1000" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashk0thari&show_icons=true&locale=en&layout=compact" alt="yashk0thari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashk0thari&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)" alt="yashk0thari" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashk0thari&show_icons=true&locale=en" alt="yashk0thari" /></p>
 
