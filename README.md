@@ -107,7 +107,7 @@ Quant        ▒░░░░░░░░░░░░░░░░░░░░░�
 <p align="center">
   <p align="left">
     <h3 align="left">My Most Recent Projects: </h3>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/yashk0thari/JiraTree">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashk0thari&repo=JiraTree&theme=shades-of-purple" />
     </a>
   </p>
