@@ -2,13 +2,6 @@
 <h1 align="center">Hi 👋, I'm Yash Kothari (yashk0thari)</h1>
 <h3 align="center">A sophomore CS major at UCLA</h3>
 
-```text
-SWE          ███████████████████▓▓▓▓▓░   88.32 %
-AI/ML        █████░░░░░░░░░░░░░░░░░░░░   11.12 %
-Entrepreneur ███░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Quant        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-```
-
 <!-- ONE LINERS -->
 
 - 🔭 I’m currently working on [LendIt](https://github.com/arjunloomba1311/LendIt)
@@ -58,7 +51,41 @@ Quant        ▒░░░░░░░░░░░░░░░░░░░░░�
 ![Bash](https://img.shields.io/badge/-Bash-2d2b55?style=for-the-badge&logo=gnubash)
 ![Docker](https://img.shields.io/badge/-Docker-2d2b55?style=for-the-badge&logo=Docker)
 
+### Frameworks:
+![Flask](https://img.shields.io/badge/-Flask-2d2b55?style=for-the-badge&logo=Flask)
 
+### Internet Of Things:
+![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-2d2b55?style=for-the-badge&logo=raspberrypi)
+![Arduino](https://img.shields.io/badge/-Arduino-2d2b55?style=for-the-badge&logo=Arduino)
+
+### Version Control & Productivity:
+![Git](https://img.shields.io/badge/-Git-2d2b55?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-2d2b55?style=for-the-badge&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-2d2b55?style=for-the-badge&logo=Bitbucket)
+![Atlassian](https://img.shields.io/badge/-Atlassian-2d2b55?style=for-the-badge&logo=atlassian)
+![Jira](https://img.shields.io/badge/-Jira-2d2b55?style=for-the-badge&logo=Jira)
+
+### AI & ML:
+![PyTorch](https://img.shields.io/badge/-PyTorch-2d2b55?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-2d2b55?style=for-the-badge&logo=tensorflow)
+
+### Software:
+![Figma](https://img.shields.io/badge/-Figma-2d2b55?style=for-the-badge&logo=Figma)
+![Sketch](https://img.shields.io/badge/-Sketch-2d2b55?style=for-the-badge&logo=Sketch)
+![Canva](https://img.shields.io/badge/-Canva-2d2b55?style=for-the-badge&logo=Canva)
+![invision](https://img.shields.io/badge/-invision-2d2b55?style=for-the-badge&logo=invision)
+
+![Notion](https://img.shields.io/badge/-Notion-2d2b55?style=for-the-badge&logo=Notion)
+![Slack](https://img.shields.io/badge/-Slack-2d2b55?style=for-the-badge&logo=Slack)
+![Discord](https://img.shields.io/badge/-Discord-2d2b55?style=for-the-badge&logo=Discord)
+
+![Postman](https://img.shields.io/badge/-Postman-2d2b55?style=for-the-badge&logo=Postman)
+
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-2d2b55?style=for-the-badge&logo=SolidWorks)
+![Fusion360](https://img.shields.io/badge/-Fusion360-2d2b55?style=for-the-badge&logo=Fusion360)
+
+### Testing:
+![Selenium](https://img.shields.io/badge/-Selenium-2d2b55?style=for-the-badge&logo=Selenium)
 
 <!-- CONTACT INFO -->
 
