@@ -23,20 +23,21 @@
 </p>
 
 <!-- GITHUB README STATS -->
-<!-- STATS -->
-![Yash Kothari's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashk0thari&count_private=true&theme=shades-of-purple&show_icons=true)
-
 <!-- Most Recent Projects -->
-<h3 align="left">Most Recent Projects: </h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashk0thari&repo=JiraTree)](https://github.com/yashk0thari/JiraTree)
-
-<!-- STREAKS -->
-
-<!-- TOP LANGS -->
-
-<!-- REPO -->
-
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashk0thari&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)" alt="yashk0thari" /> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashk0thari&show_icons=true&locale=en" alt="yashk0thari" /></p> -->
+<p align="center">
+  <p align="left">
+    <h3 align="left">My Most Recent Projects: </h3>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashk0thari&repo=JiraTree&theme=shades-of-purple" />
+    </a>
+  </p>
+  <p align="right">
+    <!-- STATS -->
+    <h3 align="left">My Github Stats: </h3>
+    
+   ![Yash Kothari's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashk0thari&count_private=true&theme=shades-of-purple&show_icons=true)
+    
+   <!-- TOP LANGS -->
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashk0thari&langs_count=10&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+    </p>
+</p>
