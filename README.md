@@ -14,15 +14,44 @@
 
 - ⚡ Fun fact: **My first programming language was QBasic**
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![JavaScript](https://img.shields.io/badge/-JavaScript-2d2b55?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+### Programming Languages:
+![Python](https://img.shields.io/badge/-Python-2d2b55?style=for-the-badge&logo=Python)
+![Swift](https://img.shields.io/badge/-Swift-2d2b55?style=for-the-badge&logo=Swift)
+![Dart](https://img.shields.io/badge/-Dart-2d2b55?style=for-the-badge&logo=Dart)
+![JavaScript](https://img.shields.io/badge/-JavaScript-2d2b55?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2d2b55?style=for-the-badge&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-2d2b55?style=for-the-badge&logo=Cplusplus)
+![C](https://img.shields.io/badge/-C-2d2b55?style=for-the-badge&logo=C)
+![Java](https://img.shields.io/badge/-Java-2d2b55?style=for-the-badge&logo=Java)
+![SQL](https://img.shields.io/badge/-SQL-2d2b55?style=for-the-badge&logo=MySQL)
+
+### Frontend Development:
+![REACT](https://img.shields.io/badge/-REACT-2d2b55?style=for-the-badge&logo=React)
+![HTML](https://img.shields.io/badge/-HTML-2d2b55?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-2d2b55?style=for-the-badge&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-2d2b55?style=for-the-badge&logo=Bootstrap)
+
+### Backend + BaaS Development:
+![Node.JS](https://img.shields.io/badge/-Node.JS-2d2b55?style=for-the-badge&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-2d2b55?style=for-the-badge&logo=Express)
+![Firebase](https://img.shields.io/badge/-Firebase-2d2b55?style=for-the-badge&logo=Firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-2d2b55?style=for-the-badge&logo=Heroku)
+
+### App Development:
+![Flutter](https://img.shields.io/badge/-Flutter-2d2b55?style=for-the-badge&logo=Flutter)
+![XCode](https://img.shields.io/badge/-XCode-2d2b55?style=for-the-badge&logo=Xcode)
+
+### Database:
+![MongoDB](https://img.shields.io/badge/-MongoDB-2d2b55?style=for-the-badge&logo=mongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2d2b55?style=for-the-badge&logo=PostgreSQL)
+![CockroachDB](https://img.shields.io/badge/-CockroachDB-2d2b55?style=for-the-badge&logo=cockroachlabs)
+
+### DevOps:
+![GCP](https://img.shields.io/badge/-GCP-2d2b55?style=for-the-badge&logo=googlecloud)
+![Bash](https://img.shields.io/badge/-Bash-2d2b55?style=for-the-badge&logo=gnubash)
+![Docker](https://img.shields.io/badge/-Docker-2d2b55?style=for-the-badge&logo=Docker)
+
+
 
 <!-- CONTACT INFO -->
 
