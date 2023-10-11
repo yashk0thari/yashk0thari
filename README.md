@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yashkothari1000@ucla.edu**
 
-- 📄 [Know about my experiences](https://www.yashkothari.com/_files/ugd/7e9752_c2729b24e8084d35a80d629e815c396b.pdf)
+- 📄 [Know more about me](http://yashkothari.com)
 
 - ⚡ Fun fact: **My first programming language was QBasic**
 
