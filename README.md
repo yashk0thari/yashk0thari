@@ -1,19 +1,12 @@
 <!-- PROFILE TITLE -->
 <h1 align="center">Hi 👋, I'm Yash Kothari (yashk0thari)</h1>
-<h3 align="center">A sophomore CS major at UCLA</h3>
-
-```text
-SWE          ███████████████████▓▓▓▓▓░   88.32 %
-AI/ML        █████░░░░░░░░░░░░░░░░░░░░   11.12 %
-Entrepreneur ███░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Quant        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-```
+<h3 align="center">A junior CS major at UCLA</h3>
 
 <!-- ONE LINERS -->
 
-- 🔭 I’m currently working on [LendIt](https://github.com/arjunloomba1311/LendIt)
+- 🔭 I’m currently working on creating a database for Financial Data
 
-- 🌱 I’m currently learning **Dart, Flutter, and Cross-Platform Development**
+- 🌱 I’m currently learning **about LLMs and Vector Databases**
 
 - 📫 How to reach me **yashkothari1000@ucla.edu**
 
