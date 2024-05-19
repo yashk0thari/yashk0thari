@@ -33,9 +33,7 @@
 
 ### Backend + BaaS Development:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-2d2b55?style=for-the-badge&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-2d2b55?style=for-the-badge&logo=Express)
 ![Firebase](https://img.shields.io/badge/-Firebase-2d2b55?style=for-the-badge&logo=Firebase)
-![Heroku](https://img.shields.io/badge/-Heroku-2d2b55?style=for-the-badge&logo=Heroku)
 
 ### App Development:
 ![Flutter](https://img.shields.io/badge/-Flutter-2d2b55?style=for-the-badge&logo=Flutter)
@@ -54,10 +52,6 @@
 ### Frameworks:
 ![Flask](https://img.shields.io/badge/-Flask-2d2b55?style=for-the-badge&logo=Flask)
 
-### Internet Of Things:
-![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-2d2b55?style=for-the-badge&logo=raspberrypi)
-![Arduino](https://img.shields.io/badge/-Arduino-2d2b55?style=for-the-badge&logo=Arduino)
-
 ### Version Control & Productivity:
 ![Git](https://img.shields.io/badge/-Git-2d2b55?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-2d2b55?style=for-the-badge&logo=github)
@@ -67,13 +61,11 @@
 
 ### AI & ML:
 ![PyTorch](https://img.shields.io/badge/-PyTorch-2d2b55?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-2d2b55?style=for-the-badge&logo=tensorflow)
 
 ### Software:
 ![Figma](https://img.shields.io/badge/-Figma-2d2b55?style=for-the-badge&logo=Figma)
 ![Sketch](https://img.shields.io/badge/-Sketch-2d2b55?style=for-the-badge&logo=Sketch)
 ![Canva](https://img.shields.io/badge/-Canva-2d2b55?style=for-the-badge&logo=Canva)
-![invision](https://img.shields.io/badge/-invision-2d2b55?style=for-the-badge&logo=invision)
 
 ![Notion](https://img.shields.io/badge/-Notion-2d2b55?style=for-the-badge&logo=Notion)
 ![Slack](https://img.shields.io/badge/-Slack-2d2b55?style=for-the-badge&logo=Slack)
