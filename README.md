@@ -1,12 +1,12 @@
 <!-- PROFILE TITLE -->
 <h1 align="center">Hi 👋, I'm Yash Kothari (yashk0thari)</h1>
-<h3 align="center">A junior CS major at UCLA</h3>
+<h3 align="center">A rising senior, CS major at UCLA</h3>
 
 <!-- ONE LINERS -->
 
-- 🔭 I’m currently working on creating a database for Financial Data
+- 🔭 I’m currently working at Kindo AI
 
-- 🌱 I’m currently learning **about LLMs and Vector Databases**
+- 🌱 I’m currently learning about **LLMs and Enterprise AI Software**
 
 - 📫 How to reach me **yashkothari1000@ucla.edu**
 
@@ -88,21 +88,3 @@
 </p>
 
 <!-- GITHUB README STATS -->
-<!-- Most Recent Projects -->
-<p align="center">
-  <p align="left">
-    <h3 align="left">My Most Recent Projects: </h3>
-    <a href="https://github.com/yashk0thari/JiraTree">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashk0thari&repo=JiraTree&theme=shades-of-purple" />
-    </a>
-  </p>
-  <p align="right">
-    <!-- STATS -->
-    <h3 align="left">My Github Stats: </h3>
-    
-   ![Yash Kothari's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashk0thari&count_private=true&theme=shades-of-purple&show_icons=true)
-    
-   <!-- TOP LANGS -->
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashk0thari&langs_count=10&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
-    </p>
-</p>
